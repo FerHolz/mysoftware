@@ -32,5 +32,5 @@ df_actionDetails = df_actionDetails.set_index('userid')
 
 #df_lvd.head()
 #df_ad.head()
-df_actionDetails..head()
+df_actionDetails.head()
 
